@@ -1,6 +1,6 @@
 # Katameru
 
-TODO: Write a gem description
+easy package maker
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ katameru bundle --version 0.1
+    $ katameru fpm --version 0.1
 
 ## Contributing
 
